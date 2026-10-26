@@ -1,5 +1,5 @@
 {
-  "name": "Interview workspace",
+  "name": "JS/TS Interview workspace",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
     "ghcr.io/devcontainers/features/node:1": {
