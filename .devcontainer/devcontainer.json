@@ -10,7 +10,7 @@
     "vscode": {
       "settings": {
         "editor.quickSuggestions": false,
-        "editor.hover.enabled": false,
+        "editor.hover.enabled": "off",
         "editor.suggestOnTriggerCharacters": false,
         "editor.inlineSuggest.enabled": false,
         "editor.parameterHints.enabled": false,
@@ -43,8 +43,7 @@
         "editor.suggest.showReferences": false,
         "editor.suggest.showFolders": false,
         "editor.suggest.showTypeParameters": false,
-        "javascript.suggest.enabled": false,
-        "typescript.suggest.enabled": false,
+        "js/ts.validate.enabled": false,
         "github.copilot.enable": {
           "*": false
         },
